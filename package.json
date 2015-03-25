@@ -1,7 +1,7 @@
 {
   "name": "twenty-sleven-dark",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A dark theme but meant to have a lot of colors so one can easily distinguish between syntax highlights",
   "repository": "https://github.com/proflayton/twentySleven-dark",
   "license": "MIT",
